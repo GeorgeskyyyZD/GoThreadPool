@@ -1,14 +1,11 @@
 #一个好用的Golang线程池
 ##为了解决Golang多线程并发控制而诞生
 ### Example
-package main
+<br>package main
 
-import (
-
+<br>import (
 	"./DaoLib"
-
 	"fmt"
-
 )
 
 func main() {
