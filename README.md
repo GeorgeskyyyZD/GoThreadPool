@@ -3,7 +3,7 @@
 ### Example
 package main
 
-import (\N
+import (\n
 	"./DaoLib"\N
 	"fmt"\N
 )\N
