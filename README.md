@@ -3,10 +3,13 @@
 ### Example
 package main
 
-import (\n
-	"./DaoLib"\N
-	"fmt"\N
-)\N
+import (
+
+	"./DaoLib"
+
+	"fmt"
+
+)
 
 func main() {
 	threadPool := DaoLib.CreateThreadPool(300)
